@@ -4,7 +4,7 @@
 
 ## Focus
 
-This exploration is focused of financial services.
+This exploration is focused on financial services.
 
 ## Objectives 
 <br></br>
@@ -19,7 +19,7 @@ This exploration is focused of financial services.
 create effective visualization that is comprehensive to an audience.
 
 ## Installation
-> The following libraries were used in this project.
+The following libraries were used in this project.
 <br></br>
 • Numpy
 <br></br>
